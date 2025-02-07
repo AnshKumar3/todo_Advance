@@ -1,0 +1,12 @@
+C:\Users\vaibh\source\repos\BulkyBook\BulkyBook.ServiceDefaults\bin\Debug\net8.0\BulkyBook.ServiceDefaults.deps.json
+C:\Users\vaibh\source\repos\BulkyBook\BulkyBook.ServiceDefaults\bin\Debug\net8.0\BulkyBook.ServiceDefaults.dll
+C:\Users\vaibh\source\repos\BulkyBook\BulkyBook.ServiceDefaults\bin\Debug\net8.0\BulkyBook.ServiceDefaults.pdb
+C:\Users\vaibh\source\repos\BulkyBook\BulkyBook.ServiceDefaults\obj\Debug\net8.0\BulkyBook.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\vaibh\source\repos\BulkyBook\BulkyBook.ServiceDefaults\obj\Debug\net8.0\BulkyBook.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaibh\source\repos\BulkyBook\BulkyBook.ServiceDefaults\obj\Debug\net8.0\BulkyBook.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\vaibh\source\repos\BulkyBook\BulkyBook.ServiceDefaults\obj\Debug\net8.0\BulkyBook.ServiceDefaults.AssemblyInfo.cs
+C:\Users\vaibh\source\repos\BulkyBook\BulkyBook.ServiceDefaults\obj\Debug\net8.0\BulkyBook.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\source\repos\BulkyBook\BulkyBook.ServiceDefaults\obj\Debug\net8.0\BulkyBook.ServiceDefaults.dll
+C:\Users\vaibh\source\repos\BulkyBook\BulkyBook.ServiceDefaults\obj\Debug\net8.0\refint\BulkyBook.ServiceDefaults.dll
+C:\Users\vaibh\source\repos\BulkyBook\BulkyBook.ServiceDefaults\obj\Debug\net8.0\BulkyBook.ServiceDefaults.pdb
+C:\Users\vaibh\source\repos\BulkyBook\BulkyBook.ServiceDefaults\obj\Debug\net8.0\ref\BulkyBook.ServiceDefaults.dll

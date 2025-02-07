@@ -1,0 +1,25 @@
+﻿@model IEnumerable<siteSuggestionApp.Models.SiteSuggestion>
+
+<h2>Site Suggestions</h2>
+<a asp-action="Create" class="btn btn-primary">Add New Suggestion</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Site Name</th>
+            <th>URL</th>
+            <th>Description</th>
+            <th>Date Submitted</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.SiteName</td>
+                <td><a href="@item.SiteUrl" target="_blank">@item.SiteUrl</a></td>
+                <td>@item.Description</td>
+                <td>@item.DateSubmitted</td>
+            </tr>
+        }
+    </tbody>
+</table>

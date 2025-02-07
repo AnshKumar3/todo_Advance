@@ -1,0 +1,19 @@
+﻿@model siteSuggestionApp.Models.SiteSuggestion
+
+<h2>Suggest a New Site</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="SiteName"></label>
+        <input asp-for="SiteName" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label asp-for="SiteUrl"></label>
+        <input asp-for="SiteUrl" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description" class="form-control" required></textarea>
+    </div>
+    <button type="submit" class="btn btn-success">Submit</button>
+</form>

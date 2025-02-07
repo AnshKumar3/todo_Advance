@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vaibh\\source\\repos\\menu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B01FC1-4C20-4CDE-B635-7D9A5EECFD61}|menu\\menu.csproj|c:\\users\\vaibh\\source\\repos\\menu\\menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B01FC1-4C20-4CDE-B635-7D9A5EECFD61}|menu\\menu.csproj|solutionrelative:menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B01FC1-4C20-4CDE-B635-7D9A5EECFD61}|menu\\menu.csproj|c:\\users\\vaibh\\source\\repos\\menu\\menu\\data\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B01FC1-4C20-4CDE-B635-7D9A5EECFD61}|menu\\menu.csproj|solutionrelative:menu\\data\\menucontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B01FC1-4C20-4CDE-B635-7D9A5EECFD61}|menu\\menu.csproj|c:\\users\\vaibh\\source\\repos\\menu\\menu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4B01FC1-4C20-4CDE-B635-7D9A5EECFD61}|menu\\menu.csproj|solutionrelative:menu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B01FC1-4C20-4CDE-B635-7D9A5EECFD61}|menu\\menu.csproj|c:\\users\\vaibh\\source\\repos\\menu\\menu\\models\\dishingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B01FC1-4C20-4CDE-B635-7D9A5EECFD61}|menu\\menu.csproj|solutionrelative:menu\\models\\dishingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B01FC1-4C20-4CDE-B635-7D9A5EECFD61}|menu\\menu.csproj|c:\\users\\vaibh\\source\\repos\\menu\\menu\\models\\ingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B01FC1-4C20-4CDE-B635-7D9A5EECFD61}|menu\\menu.csproj|solutionrelative:menu\\models\\ingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B01FC1-4C20-4CDE-B635-7D9A5EECFD61}|menu\\menu.csproj|c:\\users\\vaibh\\source\\repos\\menu\\menu\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B01FC1-4C20-4CDE-B635-7D9A5EECFD61}|menu\\menu.csproj|solutionrelative:menu\\models\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B01FC1-4C20-4CDE-B635-7D9A5EECFD61}|menu\\menu.csproj|c:\\users\\vaibh\\source\\repos\\menu\\menu\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B01FC1-4C20-4CDE-B635-7D9A5EECFD61}|menu\\menu.csproj|solutionrelative:menu\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vaibh\\source\\repos\\menu\\menu\\appsettings.json",
+              "RelativeDocumentMoniker": "menu\\appsettings.json",
+              "ToolTip": "C:\\Users\\vaibh\\source\\repos\\menu\\menu\\appsettings.json",
+              "RelativeToolTip": "menu\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-04T14:56:11.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuContext.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\source\\repos\\menu\\menu\\Data\\MenuContext.cs",
+              "RelativeDocumentMoniker": "menu\\Data\\MenuContext.cs",
+              "ToolTip": "C:\\Users\\vaibh\\source\\repos\\menu\\menu\\Data\\MenuContext.cs",
+              "RelativeToolTip": "menu\\Data\\MenuContext.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:19:37.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DishIngredients.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\source\\repos\\menu\\menu\\Models\\DishIngredients.cs",
+              "RelativeDocumentMoniker": "menu\\Models\\DishIngredients.cs",
+              "ToolTip": "C:\\Users\\vaibh\\source\\repos\\menu\\menu\\Models\\DishIngredients.cs",
+              "RelativeToolTip": "menu\\Models\\DishIngredients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:08:39.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ingredients.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\source\\repos\\menu\\menu\\Models\\Ingredients.cs",
+              "RelativeDocumentMoniker": "menu\\Models\\Ingredients.cs",
+              "ToolTip": "C:\\Users\\vaibh\\source\\repos\\menu\\menu\\Models\\Ingredients.cs",
+              "RelativeToolTip": "menu\\Models\\Ingredients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T14:04:55.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\source\\repos\\menu\\menu\\Models\\Dish.cs",
+              "RelativeDocumentMoniker": "menu\\Models\\Dish.cs",
+              "ToolTip": "C:\\Users\\vaibh\\source\\repos\\menu\\menu\\Models\\Dish.cs",
+              "RelativeToolTip": "menu\\Models\\Dish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:59:26.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\source\\repos\\menu\\menu\\Program.cs",
+              "RelativeDocumentMoniker": "menu\\Program.cs",
+              "ToolTip": "C:\\Users\\vaibh\\source\\repos\\menu\\menu\\Program.cs",
+              "RelativeToolTip": "menu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:52:08.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\source\\repos\\menu\\menu\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "menu\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\vaibh\\source\\repos\\menu\\menu\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "menu\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:57:48.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
